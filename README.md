@@ -5,11 +5,11 @@
 <h2>About Me</h2>
 <ul>
   <li>🔭 I’m currently working on <a href="[Link to Your Project]">[Greenvest]</a></li>
-  <li>🌱 I’m currently learning [Python, SQL and Machine Learning]</li>
-  <li>👯 I’m looking to collaborate on [Projects in the Sustainability space with the application of ML and AI ]</li>
-  <li>🤔 I’m looking for help with [creating a Machine learning alogorithm that will help rate the Sustainability score for an organisation based on various datapoints]</li>
-  <li>💬 Ask me about [Supply Chain (Demand forcasting, Risk management, Sustainability)]</li>
-  <li>📫 How to reach me: <a href="mailto:your-email@example.com">[vinayviking@gmail.com]</a> or <a href="[Your LinkedIn Profile URL]">LinkedIn</a></li>
+  <li>🌱 I’m currently learning Python, SQL and Machine Learning </li>
+  <li>👯 I’m looking to collaborate on Projects in the Sustainability space with the application of ML and AI </li>
+  <li>🤔 I’m looking for help with creating a Machine learning alogorithm that will help rate the Sustainability score for an organisation based on various datapoint</li>
+  <li>💬 Ask me about Supply Chain (Demand forcasting, Risk management, Sustainability)</li>
+  <li>📫 How to reach me: <a href="mailto:your-email@example.com">vinayviking@gmail.com</a> or <a href="[Your LinkedIn Profile URL]">LinkedIn</a></li>
   <li>⚡ Fun fact: [I hate coding]</li>
 </ul>
 
