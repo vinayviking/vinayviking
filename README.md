@@ -24,8 +24,8 @@
 <!-- Add other technologies as needed -->
 </div>
 
-## 📈 Sample Projects
-### Machine Learning in Supply Chain
+## 📈 Projects
+### Application of Machine Learning in Supply Chain Optimization
 1. **Demand Forecasting**: Developed a model to predict product demand, enhancing inventory management and reducing waste.
 2. **Risk Modeling**: Implemented algorithms to assess and mitigate risks in supply chain operations.
 3. **Emission Measurement and Prediction**: Created a tool for predicting and analyzing emissions in the supply chain, promoting sustainable practices.
