@@ -7,7 +7,7 @@
 - 🚀 I'm a Supply Chain & Sustainability Strategy Expert, leveraging data-driven decisions to optimize operations.
 - 📊 Specialized in Machine Learning, Data Analytics, and AI for enhancing supply chain efficiency and sustainability.
 - 🌱 Currently expanding my skills in advanced Data Science methodologies.
-- 🌐 You can reach me at: [Your Email or LinkedIn].
+- 🌐 You can reach me at: [vinayviking@gmail.com or linkedin.com/in/vinaypalankar].
 
 ## 💻 My Skill Set
 ### Languages & Tools
