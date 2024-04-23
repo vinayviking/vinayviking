@@ -37,7 +37,7 @@
 
 ## 🌏 Connect with me
 <div align="center">
-<a href="[Your LinkedIn Profile]">
+<a href="[linkedin.com/in/vinaypalankar]">
 <img src="[Link to LinkedIn Logo]" alt="LinkedIn" style="margin-right:10px" height="30"/>
 </a>
 <a href="[Your Twitter Profile]">
